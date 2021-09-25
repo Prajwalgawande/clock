@@ -1,0 +1,40 @@
+#clockcontainer {
+  position: relative;
+  margin: auto;
+  border: 10px rgb(151, 30, 14);
+  height: 40vw;
+  width: 40vw;
+  background: url(img1.jfif) no-repeat;
+  background-size: 100%;
+}
+
+.hands {
+  position: absolute;
+  background-color: black;
+  border-radius: 10px;
+}
+
+#hour {
+  height: 23%;
+  width: 1.3%;
+  top: 27%;
+  left: 50.1%;
+  transform-origin: bottom;
+}
+#minute {
+  height: 34%;
+  width: 1.3%;
+  top: 16.9%;
+  left: 50.1%;
+  transform-origin: bottom;
+}
+#second {
+  height: 28%;
+  width: 1.3%;
+  top: 22.5%;
+  left: 50.1%;
+  transform-origin: bottom;
+}
+body {
+  background-color: deeppink;
+}
