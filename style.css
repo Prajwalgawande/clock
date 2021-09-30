@@ -10,7 +10,7 @@
 
 .hands {
   position: absolute;
-  background-color: black;
+  background-color: Darkblue;
   border-radius: 10px;
 }
 
@@ -36,5 +36,5 @@
   transform-origin: bottom;
 }
 body {
-  background-color: deeppink;
+  background-color: lightblue;
 }
