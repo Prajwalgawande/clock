@@ -1,7 +1,7 @@
 #clockcontainer {
   position: relative;
   margin: auto;
-  border: 10px rgb(151, 30, 14);
+  border: 10px solid yellow;
   height: 40vw;
   width: 40vw;
   background: url(img1.jfif) no-repeat;
@@ -10,7 +10,7 @@
 
 .hands {
   position: absolute;
-  background-color: Darkblue;
+  background-color: pink;
   border-radius: 10px;
 }
 
@@ -36,5 +36,5 @@
   transform-origin: bottom;
 }
 body {
-  background-color: lightblue;
+  background-color: red;
 }
