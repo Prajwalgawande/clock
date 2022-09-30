@@ -1,10 +1,16 @@
 #clockcontainer {
   position: relative;
   margin: auto;
-  border: 10px solid yellow;
   height: 40vw;
   width: 40vw;
-  background: url(img1.jfif) no-repeat;
+  border: 20px solid #ffffff00;
+  border-radius: 50%;
+  box-shadow:
+    0 0 0 4px rgba(0,0,0,0.1),
+    inset 0 0 0 3px #EFEFEF,
+    inset 0 0 10px black,
+    0 0 10px rgba(0,0,0,0.2);
+  background: url(clock.png) no-repeat;
   background-size: 100%;
 }
 
