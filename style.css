@@ -19,6 +19,7 @@
   width: 1.3%;
   top: 27%;
   left: 50.1%;
+   border-radius: 1px;
   transform-origin: bottom;
 }
 #minute {
@@ -26,6 +27,7 @@
   width: 1.3%;
   top: 16.9%;
   left: 50.1%;
+   border-radius: 1px;
   transform-origin: bottom;
 }
 #second {
@@ -33,6 +35,7 @@
   width: 1.3%;
   top: 22.5%;
   left: 50.1%;
+   border-radius: 1px;
   transform-origin: bottom;
 }
 body {
